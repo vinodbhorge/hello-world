@@ -1,2 +1,1 @@
-# hello-world
-this is my first github repository
+hi my name is vinod. Currently i am looking for job opportunities.
